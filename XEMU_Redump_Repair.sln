@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XEMU_Redump_Repair", "WindowsFormsApp1\XEMU_Redump_Repair.csproj", "{1DFD0C21-745C-42DB-9B0C-0B70E3583597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DFD0C21-745C-42DB-9B0C-0B70E3583597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DFD0C21-745C-42DB-9B0C-0B70E3583597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DFD0C21-745C-42DB-9B0C-0B70E3583597}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DFD0C21-745C-42DB-9B0C-0B70E3583597}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9FBC39C-B893-4C50-86BA-A96891A9426B}
+	EndGlobalSection
+EndGlobal
