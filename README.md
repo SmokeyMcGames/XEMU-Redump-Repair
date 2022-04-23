@@ -18,7 +18,7 @@ XEMU Repair:
 NOTE:               
 -Most if not all XBOX Redumps are around 7.6GB.
 
--If the game you're trying to Repair is below 7.3GB, it's probably not
+-If the game you're trying to Repair is below 7.3GB, It's probably not
 an XBOX Redump and possibly won't work with XEMU or the Repair Tool.
 
 -In this case you will need to find another dump of the game since it was 
