@@ -15,7 +15,7 @@ XEMU Repair:
 -6.You're Done!    
 
 
-NOTE: 
+NOTE:               
 -Most if not all XBOX Redumps are around 7.6GB.
 
 -If the game you're trying to Repair is below 7.3GB, it's probably not
