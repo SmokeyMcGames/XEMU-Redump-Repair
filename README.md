@@ -22,7 +22,7 @@ NOTE:
 an XBOX Redump and possibly won't work with XEMU or the Repair Tool.
 
 -In this case you will need to find another dump of the game since it was 
-improperly dumped and isn't XEMU or the Repair Tools Fault.
+improperly dumped and isn't XEMU or the Repair Tools fault.
 
 -It's been reported that improperly dumped XBOX games may still
 BOOT on CXBX but will not BOOT on XEMU.
