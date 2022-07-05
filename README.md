@@ -3,7 +3,7 @@
 A program that uses DD for Windows to repair Redump ISOs to work with XEMU.
 
 Version 1.0.1:
-https://github.com/SmokeyMcGames/XEMU-Redump-Repair/releases/download/Release/XEMU.Redump.Repair.rar
+https://github.com/SmokeyMcGames/XEMU-Redump-Repair/releases/download/Update/XEMU.Redump.Repair.1.0.1.rar
 
 1.0.1 Ghangelog
 - Fixed PID check for dd happening early causing Something Went Wrong Message even though dd is working.
