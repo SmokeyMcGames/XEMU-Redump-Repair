@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.0.1
+
+- Added a polished Windows app icon.
+- Rebuilt the Windows executable with the new icon embedded.
+- Updated release download information.
+
 ## 2.0.0
 
 - Rebuilt the app as a Python Edition.

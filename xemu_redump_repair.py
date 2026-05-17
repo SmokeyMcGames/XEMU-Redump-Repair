@@ -27,7 +27,7 @@ from tkinter import filedialog, messagebox, ttk
 
 
 APP_NAME = "XEMU Redump Repair"
-APP_VERSION = "2.0.0"
+APP_VERSION = "2.0.1"
 AUTHOR_URL = "https://www.youtube.com/smokeymcgames"
 SKIP_MIB = 387
 SKIP_BYTES = SKIP_MIB * 1024 * 1024

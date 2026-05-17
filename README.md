@@ -2,10 +2,14 @@
 
 A Windows tool for repairing Xbox Redump ISOs so they can be used with XEMU.
 
-## Version 2.0.0 - Python Edition
+<p align="center">
+  <img src="assets/app-icon.png" alt="XEMU Redump Repair icon" width="128">
+</p>
+
+## Version 2.0.1 - Python Edition
 
 Download:
-https://github.com/SmokeyMcGames/XEMU-Redump-Repair/releases/download/v2.0.0/XEMU.Redump.Repair.2.0.0.exe
+https://github.com/SmokeyMcGames/XEMU-Redump-Repair/releases/download/v2.0.1/XEMU.Redump.Repair.2.0.1.exe
 
 This version replaces the original Windows Forms/DD for Windows workflow with a native Python repair engine. The repair operation removes the first `387 MiB` from a Redump ISO and writes the remaining data to a new repaired ISO.
 
@@ -20,7 +24,7 @@ This version replaces the original Windows Forms/DD for Windows workflow with a 
 
 ## How To Use
 
-1. Download `XEMU.Redump.Repair.2.0.0.exe` from the release link above.
+1. Download `XEMU.Redump.Repair.2.0.1.exe` from the release link above.
 2. Open the app.
 3. Click `Add ISO(s)` to choose one or more Redump ISOs, or click `Add Folder` to scan a folder.
 4. Choose the save file or output folder.
@@ -73,5 +77,5 @@ Build the Windows executable:
 
 ```powershell
 python -m pip install -r requirements-dev.txt
-pyinstaller --noconfirm --onefile --windowed --name "XEMU.Redump.Repair.2.0.0" --icon assets\XemuRepair.ico xemu_redump_repair.pyw
+pyinstaller --noconfirm --onefile --windowed --name "XEMU.Redump.Repair.2.0.1" --icon assets\XemuRepair.ico xemu_redump_repair.pyw
 ```

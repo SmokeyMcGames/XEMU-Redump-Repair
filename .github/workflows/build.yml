@@ -26,10 +26,10 @@ jobs:
         run: python -m unittest -v
 
       - name: Build executable
-        run: pyinstaller --noconfirm --onefile --windowed --name "XEMU.Redump.Repair.2.0.0" --icon assets\XemuRepair.ico xemu_redump_repair.pyw
+        run: pyinstaller --noconfirm --onefile --windowed --name "XEMU.Redump.Repair.2.0.1" --icon assets\XemuRepair.ico xemu_redump_repair.pyw
 
       - name: Upload executable
         uses: actions/upload-artifact@v4
         with:
-          name: XEMU.Redump.Repair.2.0.0
-          path: dist/XEMU.Redump.Repair.2.0.0.exe
+          name: XEMU.Redump.Repair.2.0.1
+          path: dist/XEMU.Redump.Repair.2.0.1.exe
